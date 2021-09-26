@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # NYCitibank_tableau
 
 ## Overview of analysis
@@ -27,3 +28,6 @@ The objective is to analyze bike trip data in order to convince potential invest
 - Recommended additional analysis:
   - vizualiation of trip distances
   - visuzliation of usage by age
+=======
+# NYCitibank_tableau
+>>>>>>> 5c3ce30e319567009af94d1f10ab30b61ea8f578
