@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # NYCitibank_tableau
 
 ## Overview of analysis
@@ -18,7 +17,7 @@ The objective is to analyze bike trip data in order to convince potential invest
 - The vast majority of trips are under 30 mins
 ![trip times](Resources/checkout_times.png)
 - The trip time distributions are similar across genders
-![trip times by gender](Resources/checkoug_times_gener.png)
+![trip times by gender](Resources/checkout_times_gener.png)
 - All Charts are available at [link to dashboard](https://public.tableau.com/views/CitibikeAnalysis_16326822374030/BikeAnalysis?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 ## Summary
@@ -28,6 +27,4 @@ The objective is to analyze bike trip data in order to convince potential invest
 - Recommended additional analysis:
   - vizualiation of trip distances
   - visuzliation of usage by age
-=======
-# NYCitibank_tableau
->>>>>>> 5c3ce30e319567009af94d1f10ab30b61ea8f578
+
